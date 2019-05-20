@@ -1,4 +1,4 @@
-# Skeleton Auth
+# Skeleton Admin
 
 ## Need to know before to use this project.
 

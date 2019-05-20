@@ -1,9 +1,9 @@
 {
-	"name": "rodrigoiii/skeleton-auth",
-	"description": "Authentication made in skeleton project.",
+	"name": "rodrigoiii/skeleton-admin",
+	"description": "Admin made in skeleton project.",
 	"type": "project",
 	"license": "MIT",
-	"keywords": ["slim", "micro framework", "php", "web", "builder", "auth"],
+	"keywords": ["slim", "micro framework", "php", "web", "builder", "admin"],
 	"authors": [
 	    {
 	        "name": "Rodrigo Galura III",
